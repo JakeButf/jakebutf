@@ -1,4 +1,4 @@
-![Banner](./Sunstead.png)
+![Banner](./sunstead.png)
 
 Hey, I'm Jake and I'm a developer / graphics programmer. 
 
