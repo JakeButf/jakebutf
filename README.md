@@ -1,16 +1,15 @@
-### Hi there 👋
+![Banner](./Sunstead.png)
 
-<!--
-**JakeButf/jakebutf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Jake and I'm a developer / graphics programmer. 
 
-Here are some ideas to get you started:
+🗣️ Now:
+- Researching / developing time based movement 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👥 Later:
+- Grass caching / improve mesh based grass rendering
+- Procedural terrain texture generation
+- Procedural and controllable terrain height generation
+
+🫂 Previously:
+- Procedural Day/Night Skybox.
+- Realtime Wii U memory save/load.
