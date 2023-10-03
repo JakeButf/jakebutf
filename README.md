@@ -6,12 +6,14 @@ Hey, I'm Jake and I'm a developer / graphics programmer.
 
 🗣️ Now:
 - [Researching / developing time based movement](https://github.com/JakeButf/NPCScheduler)
+- Studying Godot Engine
 
 👥 Later:
 - Grass caching / improve mesh based grass rendering
 - Procedural terrain texture generation
 - Procedural and controllable terrain height generation
+- 3D Platformer Physics
 
 🫂 Previously:
 - Procedural Day/Night Skybox.
-- Realtime Wii U memory save/load.
+- [Realtime Wii U memory save/load.](https://github.com/JakeButf/DoomZoom)
