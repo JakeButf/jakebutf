@@ -5,11 +5,11 @@ Hey, I'm Jake and I'm a developer / graphics programmer.
 
 🗣️ Now:
 - Replicating N64 Styled Visuals
-- Studying Godot Engine
+- [3D Platformer Controller](https://github.com/JakeButf/Godot64Controller)
 
 👥 Later:
 - Procedural terrain texture generation
-- 3D Platformer Physics
+- Color defined blindness pp shader
 
 🫂 Previously:
 - Procedural Day/Night Skybox.
